@@ -1,0 +1,400 @@
+{
+  "Ads": [
+    {
+      "select_main_ads": "ADMOB",
+      "select_backup_ads":"APPLOVIN-D",
+      "main_ads_banner": "ca-app-pub-3940256099942544/6300978111",
+      "main_ads_intertitial":"ca-app-pub-3940256099942544/1033173712",
+      "main_ads_natives":"ca-app-pub-3940256099942544/2247696110",
+      "main_ads_rewards":"ca-app-pub-3940256099942544/5224354917",
+      "backup_ads_natives":"null",
+      "backup_ads_banner":"db4d5e8718b97d78",
+      "backup_ads_intertitial":"518cd97722c60b52",
+      "backup_ads_rewards":"null",
+      "open_ads_admob":"ca-app-pub-3940256099942544/3419835294",
+      "open_ads_alien":"null",
+      "open_ads_max":"null",
+      "open_ads_wortise":"null",
+      "on_off_native_listview":"null",
+      "interval_intertitial": 5,
+      "initialize_sdk":"null",
+      "initialize_sdk_backup_ads":"null",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://",
+      "on_off_category":"1"
+    }
+  ],
+   "More":
+  [
+    {
+			"id": 1,
+			"title": "Cool Aesthetic Wallpaper  ",
+			"image": "https://play-lh.googleusercontent.com/0vy-dKP22kEam_9yOnAWpCiDqHug5PhNx5A6y04muBlw0Svy6OuHZTq1XDho8S1rtqTd=w240-h480-rw",
+			"link": "https://play.google.com/store/apps/details?id=com.rintjong.wallpaperaesthetic"
+		},
+		{
+			"id": 2,
+			"title": "Super HD 4K Wallpapers",
+			"image": "https://play-lh.googleusercontent.com/-dVTrS8scTittKLTqffmgQ65t2y4EP-lMRdcYEc2XlG_upCuNunFt6SCacfQz1c0tA=w240-h480-rw",
+			"link": "https://play.google.com/store/apps/details?id=com.rintjong.hdwallpaper4k"
+		},
+		{
+			"id": 3,
+			"title": "Sakura Anime Wallpaper",
+			"image": "https://play-lh.googleusercontent.com/W87QPqBURJQgR7fpzZJZJCsMntXQJqfqMDPCUr44BPELexCB3XoFh3LeAAE8miy3Dg=w240-h480-rw",
+			"link": "https://play.google.com/store/apps/details?id=com.sakura_anime.wallpaper"
+		}
+	],
+
+  "Categories": [
+    {
+      "id": 1,
+      "name_category": "New York",
+      "image": "https://cdn.leonardo.ai/users/c9d75e14-203e-449d-8e8e-0eb731b7ac21/generations/68b8e493-a344-412d-a34f-d20925197610/DreamShaper_v7_Admire_the_architectural_wonders_of_New_York_Ci_0.jpg"
+
+    },
+    {
+      "id": 2,
+      "name_category": "Paris",
+      "image": "https://cdn.leonardo.ai/users/c9d75e14-203e-449d-8e8e-0eb731b7ac21/generations/0e8cf90b-6b15-4219-92cd-29d0fef960b0/SDXL_09_Fall_in_love_with_the_charming_streets_of_Paris_lined_0.jpg"
+
+    },
+    {
+      "id": 3,
+      "name_category": "Tokyo",
+      "image": "https://storage.googleapis.com/pai-images/27a45b81b4f546a5a0adcbaa755033ab.png"
+
+    },
+	{
+      "id": 4,
+      "name_category": "Rome",
+      "image": "https://cdn.leonardo.ai/users/c9d75e14-203e-449d-8e8e-0eb731b7ac21/generations/4899e0ab-0a93-46c6-bf6f-1114040ed539/DreamShaper_v7_Transport_yourself_to_ancient_Rome_with_a_majes_0.jpg"
+
+    },
+	{
+      "id": 5,
+      "name_category": "Dubai",
+      "image": "https://cdn.leonardo.ai/users/c9d75e14-203e-449d-8e8e-0eb731b7ac21/generations/f0fabc3c-4163-4599-8d7c-998c5b58c483/DreamShaper_v7_Experience_the_futuristic_allure_of_Dubai_with_0.jpg"
+
+    }
+  ],
+
+  "Data":
+  [
+    {
+      "id":1,
+      "name_category": "New York",
+      "title":"New York City skyline at sunset",
+      "image":"https://storage.googleapis.com/pai-images/ab662e184a12441f87d198708f0f8c3a.jpeg"
+    },
+    {
+      "id": 2,
+      "name_category": "Paris",
+      "title": "An enchanting image of the Eiffel Tower",
+      "image": "https://storage.googleapis.com/pai-images/6e18583fe7f2458d9ea2d207ec21c82e.png"
+    },
+    {
+      "id":3,
+      "name_category": "Tokyo",
+      "title":"Streets of Tokyo with a lively cityscape",
+      "image":"https://storage.googleapis.com/pai-images/27a45b81b4f546a5a0adcbaa755033ab.png"
+    },
+    {
+      "id":4,
+      "name_category": "Rome",
+      "title":"Ancient Rome with a majestic view of the Colosseum",
+      "image":"https://cdn.leonardo.ai/users/c9d75e14-203e-449d-8e8e-0eb731b7ac21/generations/4899e0ab-0a93-46c6-bf6f-1114040ed539/DreamShaper_v7_Transport_yourself_to_ancient_Rome_with_a_majes_0.jpg"
+    }
+  ,
+    {
+      "id":5,
+      "name_category": "Dubai",
+      "title":"Dubai with an image of the Burj Khalifa",
+      "image":"https://cdn.leonardo.ai/users/c9d75e14-203e-449d-8e8e-0eb731b7ac21/generations/f0fabc3c-4163-4599-8d7c-998c5b58c483/DreamShaper_v7_Experience_the_futuristic_allure_of_Dubai_with_0.jpg"
+    },
+    {
+      "id":6,
+      "name_category": "New York",
+      "title":"New York City from the Empire State Building to the Statue of Liberty",
+      "image":"https://cdn.leonardo.ai/users/c9d75e14-203e-449d-8e8e-0eb731b7ac21/generations/68b8e493-a344-412d-a34f-d20925197610/DreamShaper_v7_Admire_the_architectural_wonders_of_New_York_Ci_0.jpg"
+    },
+	{
+      "id": 7,
+      "name_category": "Paris",
+      "title": "Fall in love with the charming streets of Paris",
+      "image": "https://cdn.leonardo.ai/users/c9d75e14-203e-449d-8e8e-0eb731b7ac21/generations/0e8cf90b-6b15-4219-92cd-29d0fef960b0/SDXL_09_Fall_in_love_with_the_charming_streets_of_Paris_lined_0.jpg"
+    },
+    {
+      "id":8,
+      "name_category": "Tokyo",
+      "title":"Discover the tranquility of Tokyo traditional gardens and shrines",
+      "image":"https://cdn.leonardo.ai/users/c9d75e14-203e-449d-8e8e-0eb731b7ac21/generations/00c82487-ecf0-4d24-83e2-86a2580e0395/SDXL_09_Discover_the_tranquility_of_Tokyos_traditional_gardens_0.jpg"
+    },
+    {
+      "id":9,
+      "name_category": "Rome",
+      "title":"Ancient Rome historic landmarks",
+      "image":"https://cdn.leonardo.ai/users/c9d75e14-203e-449d-8e8e-0eb731b7ac21/generations/f208c717-f508-4525-904d-81101a608bba/SDXL_09_Step_back_in_time_with_a_glimpse_of_ancient_Romes_hist_0.jpg"
+    }
+  ,
+    {
+      "id":10,
+      "name_category": "Dubai",
+      "title":"Dubai futuristic skyscrapers and artificial islands",
+      "image":"https://cdn.leonardo.ai/users/c9d75e14-203e-449d-8e8e-0eb731b7ac21/generations/6d5d8a13-cf6c-468e-936f-3fb35c3f68bf/SDXL_09_Marvel_at_the_modern_marvels_of_Dubais_futuristic_skys_0.jpg"
+    },
+	{
+      "id":11,
+      "name_category": "New York",
+      "title":"Times Square in New York City",
+      "image":"https://cdn.leonardo.ai/users/c9d75e14-203e-449d-8e8e-0eb731b7ac21/generations/86150644-31c8-44c7-8cea-6e3a69be36bb/DreamShaper_v7_Get_lost_in_the_bustling_energy_of_Times_Square_0.jpg?w=512"
+    },
+    {
+      "id": 12,
+      "name_category": "Paris",
+      "title": "The iconic Sacré Cœur Basilica",
+      "image": "https://cdn.leonardo.ai/users/c9d75e14-203e-449d-8e8e-0eb731b7ac21/generations/259cbd9e-86e1-4cde-acc4-eb096dbd973a/DreamShaper_v7_Experience_the_artistic_ambiance_of_Montmartre_0.jpg?w=512"
+    },
+    {
+      "id":13,
+      "name_category": "Tokyo",
+      "title":"Tokyo Shibuya Crossing",
+      "image":"https://cdn.leonardo.ai/users/c9d75e14-203e-449d-8e8e-0eb731b7ac21/generations/524a0b80-f48a-4b22-89e7-39aa83df2ade/DreamShaper_v7_Be_captivated_by_the_neon_lights_and_fastpaced_0.jpg?w=512"
+    },
+    {
+      "id":14,
+      "name_category": "Rome",
+      "title":"The Vatican City in Rome",
+      "image":"https://cdn.leonardo.ai/users/c9d75e14-203e-449d-8e8e-0eb731b7ac21/generations/0dd0d778-349f-4657-880e-1cbc78549cfb/DreamShaper_v7_Explore_the_Vatican_City_in_Rome_home_to_the_aw_0.jpg?w=512"
+    }
+  ,
+    {
+      "id":15,
+      "name_category": "Dubai",
+      "title":"Dubai opulent resorts and shopping malls",
+      "image":"https://cdn.leonardo.ai/users/c9d75e14-203e-449d-8e8e-0eb731b7ac21/generations/9d752632-ec3c-45a2-8db5-fbeee3e82df8/DreamShaper_v7_Get_a_taste_of_luxury_with_an_image_of_Dubais_o_0.jpg?w=512"
+    },
+	{
+      "id":16,
+      "name_category": "New York",
+      "title":"Central Park in New York City",
+      "image":"https://cdn.leonardo.ai/users/c9d75e14-203e-449d-8e8e-0eb731b7ac21/generations/7f5cb7f7-ce66-4d41-abc4-288a6e61790a/DreamShaper_v7_Capture_the_beauty_of_Central_Park_in_New_York_0.jpg?w=512"
+    },
+	{
+      "id": 17,
+      "name_category": "Paris",
+      "title": " Louvre Museum in Paris",
+      "image": "https://cdn.leonardo.ai/users/c9d75e14-203e-449d-8e8e-0eb731b7ac21/generations/015a8b86-3302-4496-b13b-a5c1bd0c1d11/DreamShaper_v7_Admire_the_elegance_of_the_Louvre_Museum_in_Par_0.jpg?w=512"
+    },
+    {
+      "id":18,
+      "name_category": "Tokyo",
+      "title":"Tokyo Meiji Shrine",
+      "image":"https://cdn.leonardo.ai/users/c9d75e14-203e-449d-8e8e-0eb731b7ac21/generations/f2cd21a9-181a-4b39-82db-4ae380c56fa3/DreamShaper_v7_Find_serenity_in_the_peaceful_gardens_surroundi_0.jpg?w=512"
+    },
+    {
+      "id":19,
+      "name_category": "Rome",
+      "title":"Vatican City",
+      "image":"https://cdn.leonardo.ai/users/c9d75e14-203e-449d-8e8e-0eb731b7ac21/generations/d3382cd6-40b2-4197-bc9e-1be4d7072203/DreamShaper_v7_Experience_the_grandeur_of_the_Vatican_City_a_s_0.jpg?w=512"
+    }
+  ,
+    {
+      "id":20,
+      "name_category": "Dubai",
+      "title":"Palm Jumeirah in Dubai",
+      "image":"https://cdn.leonardo.ai/users/c9d75e14-203e-449d-8e8e-0eb731b7ac21/generations/848a1722-1a15-4f51-b9e5-15e168fb294e/DreamShaper_v7_Gaze_upon_the_architectural_marvel_of_the_Palm_0.jpg?w=512"
+    },
+	{
+      "id":21,
+      "name_category": "New York",
+      "title":"Broadway in New York City",
+      "image":"https://cdn.leonardo.ai/users/c9d75e14-203e-449d-8e8e-0eb731b7ac21/generations/a3ba7074-9397-4262-ae03-32f4161d0e5f/DreamShaper_v7_Feel_the_energy_of_Broadway_in_New_York_City_th_0.jpg?w=512"
+    },
+    {
+      "id": 22,
+      "name_category": "Paris",
+      "title": "Eiffel Tower in Paris",
+      "image": "https://cdn.leonardo.ai/users/c9d75e14-203e-449d-8e8e-0eb731b7ac21/generations/af2dae62-33b9-40b8-b8fb-4fb582941d5f/DreamShaper_v7_Witness_the_breathtaking_view_from_the_top_of_t_0.jpg?w=512"
+    },
+    {
+      "id":23,
+      "name_category": "Tokyo",
+      "title":"Tokyo vibrant street",
+      "image":"https://cdn.leonardo.ai/users/c9d75e14-203e-449d-8e8e-0eb731b7ac21/generations/4ca4a3eb-9271-4c5a-a27e-f38c5baea74d/DreamShaper_v7_Capture_the_essence_of_Tokyos_vibrant_street_li_0.jpg"
+    },
+    {
+      "id":24,
+      "name_category": "Rome",
+      "title":"Trevi Fountain in Rome",
+      "image":"https://cdn.leonardo.ai/users/c9d75e14-203e-449d-8e8e-0eb731b7ac21/generations/30927acd-9d12-4db4-bd81-7b9c7eecf0f7/DreamShaper_v7_Marvel_at_the_intricate_details_of_the_Trevi_Fo_0.jpg?w=512"
+    }
+  ,
+    {
+      "id":25,
+      "name_category": "Dubai",
+      "title":"Dubai Marina",
+      "image":"https://cdn.leonardo.ai/users/c9d75e14-203e-449d-8e8e-0eb731b7ac21/generations/7fa220f4-f0a2-4003-af86-19fdca1bf26e/DreamShaper_v7_Admire_the_engineering_brilliance_of_the_Dubai_0.jpg"
+    },
+	{
+      "id":26,
+      "name_category": "New York",
+      "title":"Central Park Bethesda Terrace and Fountain",
+      "image":"https://cdn.leonardo.ai/users/c9d75e14-203e-449d-8e8e-0eb731b7ac21/generations/44473f9d-31d3-4b4d-ba97-a7ace8292f27/DreamShaper_v7_Experience_the_serenity_of_Central_Parks_Bethes_0.jpg?w=512"
+    },
+	{
+      "id": 27,
+      "name_category": "Paris",
+      "title": "Musée d Orsay in Paris",
+      "image": "https://cdn.leonardo.ai/users/c9d75e14-203e-449d-8e8e-0eb731b7ac21/generations/e5d9e224-1ab2-4676-a4d9-f3460618bdf1/DreamShaper_v7_Find_inspiration_in_the_renowned_art_collection_0.jpg"
+    },
+    {
+      "id":28,
+      "name_category": "Tokyo",
+      "title":"Tokyo Shinjuku Gyoen National Garden",
+      "image":"https://cdn.leonardo.ai/users/c9d75e14-203e-449d-8e8e-0eb731b7ac21/generations/db394cd5-fd53-4dda-9c8f-a0a606fbd7e2/DreamShaper_v7_Discover_the_tranquility_of_Tokyos_Shinjuku_Gyo_0.jpg"
+    },
+    {
+      "id":29,
+      "name_category": "Rome",
+      "title":"Magnificence of the Roman Forums",
+      "image":"https://cdn.leonardo.ai/users/c9d75e14-203e-449d-8e8e-0eb731b7ac21/generations/9d289217-00ea-4851-bc57-43d45d2c1d87/DreamShaper_v7_Capture_the_magnificence_of_the_Roman_Forum_onc_0.jpg"
+    }
+  ,
+    {
+      "id":30,
+      "name_category": "Dubai",
+      "title":"Desert safari in Dubai",
+      "image":"https://cdn.leonardo.ai/users/c9d75e14-203e-449d-8e8e-0eb731b7ac21/generations/203397cf-f40c-4a97-bd9c-f3360bb73c3d/DreamShaper_v7_Get_a_taste_of_adventure_with_an_image_of_a_thr_0.jpg"
+    },
+	{
+      "id":31,
+      "name_category": "New York",
+      "title":"Brooklyn Bridge spanning the East River in New York City",
+      "image":"https://cdn.leonardo.ai/users/c9d75e14-203e-449d-8e8e-0eb731b7ac21/generations/9453e947-6485-43a2-92fd-796aea33aa33/DreamShaper_v7_Admire_the_iconic_Brooklyn_Bridge_spanning_the_0.jpg?w=512"
+    },
+    {
+      "id": 32,
+      "name_category": "Paris",
+      "title": "Experience the bohemian charm of Paris Latin Quarters",
+      "image": "https://cdn.leonardo.ai/users/c9d75e14-203e-449d-8e8e-0eb731b7ac21/generations/d4e69dee-2d5c-44db-b208-6d479fdad9cb/DreamShaper_v7_Experience_the_bohemian_charm_of_Paris_Latin_Qu_0.jpg?w=512"
+    },
+    {
+      "id":33,
+      "name_category": "Tokyo",
+      "title":"Tokyo Akihabara district",
+      "image":"https://cdn.leonardo.ai/users/c9d75e14-203e-449d-8e8e-0eb731b7ac21/generations/e2311f32-c8b9-44b8-86ff-14c9397e0abf/DreamShaper_v7_Capture_the_energy_of_Tokyos_Akihabara_district_0.jpg?w=512"
+    },
+    {
+      "id":34,
+      "name_category": "Rome",
+      "title":"Vatican Museums",
+      "image":"https://cdn.leonardo.ai/users/c9d75e14-203e-449d-8e8e-0eb731b7ac21/generations/c35df8ab-9657-46f1-a3e3-5a6e92f13e8c/DreamShaper_v7_Marvel_at_the_grandeur_of_the_Vatican_Museums_h_0.jpg"
+    }
+  ,
+    {
+      "id":35,
+      "name_category": "Dubai",
+      "title":"Dubai Burj Al Arab",
+      "image":"https://cdn.leonardo.ai/users/c9d75e14-203e-449d-8e8e-0eb731b7ac21/generations/105b3fe7-8679-4707-bac8-4bafd9518b25/DreamShaper_v7_Experience_the_opulence_of_Dubais_Burj_Al_Arab_0.jpg"
+    },
+	{
+      "id":36,
+      "name_category": "New York",
+      "title":"New York City Central Park",
+      "image":"https://cdn.leonardo.ai/users/c9d75e14-203e-449d-8e8e-0eb731b7ac21/generations/8ad292c9-6e64-4cb8-962d-938e360a20ec/DreamShaper_v7_Enjoy_a_serene_moment_in_New_York_Citys_Central_0.jpg?w=512"
+    },
+	{
+      "id": 37,
+      "name_category": "Paris",
+      "title": "The Musée du Louvre in Paris",
+      "image": "https://cdn.leonardo.ai/users/c9d75e14-203e-449d-8e8e-0eb731b7ac21/generations/a3c6b678-6dcb-4b81-a26b-7c1003b5aa90/DreamShaper_v7_Find_inspiration_in_the_worldclass_collections_0.jpg?w=512"
+    },
+    {
+      "id":38,
+      "name_category": "Tokyo",
+      "title":"The tranquility of Tokyo Ueno Park",
+      "image":"https://cdn.leonardo.ai/users/c9d75e14-203e-449d-8e8e-0eb731b7ac21/generations/06bc20ab-f2fd-4fb9-b5ed-79a0223f2a20/DreamShaper_v7_Discover_the_tranquility_of_Tokyos_Ueno_Park_fa_0.jpg?w=512"
+    },
+    {
+      "id":39,
+      "name_category": "Rome",
+      "title":"Pantheon in Rome",
+      "image":"https://cdn.leonardo.ai/users/c9d75e14-203e-449d-8e8e-0eb731b7ac21/generations/5a356782-479f-4f4c-ac06-bc3f28f1c6d2/DreamShaper_v7_Capture_the_majesty_of_the_Pantheon_in_Rome_an_0.jpg?w=512"
+    }
+  ,
+    {
+      "id":40,
+      "name_category": "Dubai",
+      "title":"Dubai Fountain",
+      "image":"https://cdn.leonardo.ai/users/c9d75e14-203e-449d-8e8e-0eb731b7ac21/generations/e125cede-f62f-4fb0-8f73-3184e1a98ba2/DreamShaper_v7_Witness_the_aweinspiring_Dubai_Fountain_the_wor_0.jpg"
+    },
+	{
+      "id":41,
+      "name_category": "New York",
+      "title":"Statue of Liberty",
+      "image":"https://cdn.leonardo.ai/users/c9d75e14-203e-449d-8e8e-0eb731b7ac21/generations/69dc7c98-67dd-45f6-b2c3-1537f3002492/DreamShaper_v7_Marvel_at_the_iconic_Statue_of_Liberty_a_symbol_0.jpg?w=512"
+    },
+    {
+      "id": 42,
+      "name_category": "Paris",
+      "title": "Paris Montparnasse district",
+      "image": "https://cdn.leonardo.ai/users/c9d75e14-203e-449d-8e8e-0eb731b7ac21/generations/31d56735-abc4-43b4-b8d8-725a5b1cabd7/DreamShaper_v7_Experience_the_artistic_ambiance_of_Paris_Montp_0.jpg?w=512"
+    },
+    {
+      "id":43,
+      "name_category": "Tokyo",
+      "title":"Tokyo Harajuku neighborhood",
+      "image":"https://storage.googleapis.com/pai-images/5fec70ce7aa44fe6b9b19f2df91c2dab.png"
+    },
+    {
+      "id":44,
+      "name_category": "Rome",
+      "title":"St Peters Square in Vatican City",
+      "image":"https://storage.googleapis.com/pai-images/2cb4ff749e1f4e99a24fd7ccfe5f2c9e.png"
+    }
+  ,
+    {
+      "id":45,
+      "name_category": "Dubai",
+      "title":"Dubai Palm Jumeirah",
+      "image":"https://storage.googleapis.com/pai-images/089c5ce609624f16861596838924a3a4.png"
+    },
+	{
+      "id":46,
+      "name_category": "New York",
+      "title":"Bethesda Terrace in Central Park",
+      "image":"https://storage.googleapis.com/pai-images/cd83b905f5214f36905d4148fecea76a.png"
+    },
+	{
+      "id": 47,
+      "name_category": "Paris",
+      "title": "Musée de l Orangerie in Paris",
+      "image": "https://storage.googleapis.com/pai-images/1b739890b3114063b2c63a2b797f919c.png"
+    },
+    {
+      "id":48,
+      "name_category": "Tokyo",
+      "title":"Tokyo Yanaka neighborhood",
+      "image":"https://storage.googleapis.com/pai-images/a7a21bd454ab468f9f056ea1bd3cea68.png"
+    },
+    {
+      "id":49,
+      "name_category": "Rome",
+      "title":"Colosseum in Rome",
+      "image":"https://storage.googleapis.com/pai-images/824133888c944ce7833c583cb5cba3a9.png"
+    }
+  ,
+    {
+      "id":50,
+      "name_category": "Dubai",
+      "title":"Burj Khalifa in Dubai",
+      "image":"https://storage.googleapis.com/pai-images/d722fe6a0de345968452d8ee8c3af57f.png"
+    }
+  ]
+}
