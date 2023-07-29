@@ -16,7 +16,7 @@
       "open_ads_max":"null",
       "open_ads_wortise":"null",
       "on_off_native_listview":"1",
-      "interval_intertitial": 3,
+      "interval_intertitial": 2,
       "initialize_sdk":"null",
       "initialize_sdk_backup_ads":"null",
       "high_paying_keyword_1": "",
@@ -51,13 +51,13 @@
 		},
 	  	{
       			"id":4,
-      			"title":"Navy Seal Wallpaper",
+      			"title":"US Navy Elite Wallpaper",
      			"image":"https://play-lh.googleusercontent.com/7THc2UBA13B-NMpiS06uTNbWAoSvdLyMVnrJiwPGGYIwDYSKOwhPESlv1pKJXIXNNA=w240-h480-rw",
       			"link":"https://play.google.com/store/apps/details?id=com.rintjong.usnavyseal"
     		},
     		{
       			"id":5,
-      			"title":"Lone Wolf Wallpaper",
+      			"title":"Majestic Lone Wolf Wallpapers",
       			"image":"https://play-lh.googleusercontent.com/qqUMf4-9P7ufEMCRonoXKnKuP3qPQc8r7MikAkD-Zr2hvYKJMZF0atk6lwrBCElb_yE=w526-h296-rw",
       			"link":"https://play.google.com/store/apps/details?id=com.rintjong.lonewolfwallpaper"
     		}
